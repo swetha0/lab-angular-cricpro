@@ -62,6 +62,15 @@ To generate the starter code, follow the steps given below
 
 In the first iteration we are going to build a cricket scoreboard. DouyYou remember it right! Yes thats the first lab you did as a ProGrad. Now let us try and build the same one with the help of Angular.
 
-We will build this scoreboard in the `AppComponent` component. The scoreboard will have multiple players and their scores,when I hover over them a pop should open by showing their details and **it's not necessary to have an array to store these values**.
+We will build this scoreboard in the `AppComponent` component. The scoreboard will have multiple players and their scores, Once you have tabulated the scores, create a pop up which opens up on clicking a player's name. and **it's not necessary to have an array to store these values**.
 
 Easy, right? Add some styles to the page to give your score board a little flair!
+
+Once you have tabulated the scores, create a pop up which opens up on clicking a player's name.
+
+## Expected Output
+Here is a screenshot of the expected output.
+![Image description](https://i1.faceprep.in/ProGrad/cricpro.png)
+
+Happy Coding ❤️
+
