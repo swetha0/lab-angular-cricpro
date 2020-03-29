@@ -1,8 +1,10 @@
 ![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
 
-# ProGrad Lab | Angular Introduction - CricPro
+# ProGrad Lab | Angular - CricPro
 
+## Introduction
 
+We are gonna be recreating our CricPro Cricket DashBoard using Angular.
 
 ## Learning Goals
 
@@ -34,10 +36,6 @@ In the pull request name, add your Prograd id, name, and last name separated by 
 
 You need to generate the starter code and fill it with the necessary code to satisfy the requirements described below.
 
-## Introduction
-
-In this lesson we are going to work with Angular for the first time. The goal here is to work on a small projects where you can practice the concepts we've learned thus far.
-
 ## Starter Code
 
 To generate the starter code, follow the steps given below
@@ -58,9 +56,9 @@ To generate the starter code, follow the steps given below
     - ```ng serve --open or ng serve -o```
     
 
-## PROGRESSION #1: 
+## Progression #1: 
 
-In the first iteration we are going to build a cricket scoreboard. DouyYou remember it right! Yes thats the first lab you did as a ProGrad. Now let us try and build the same one with the help of Angular.
+In the first iteration, we are going to build a cricket scoreboard. You do remember it right! It's the first ever lab you have done as a ProGrad. Now let us try and build the same one with the help of Angular.
 
 We will build this scoreboard in the `AppComponent` component. The scoreboard will have multiple players and their scores, Once you have tabulated the scores, create a pop up which opens up on clicking a player's name. and **it's not necessary to have an array to store these values**.
 
